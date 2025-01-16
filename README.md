@@ -7,8 +7,6 @@
 
 > Your AI-Powered LP Assistant in Your Pocket
 
-**Contract Address**: `7dX988SRFn1jsxDMcSraVzMe3G3VamWdrPWDCHjBpump`
-
 [![Twitter Follow](https://img.shields.io/badge/Follow%20on%20X-%23FF6B35?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/cleopetrafun)
 [![Built with Solana Agent Kit](https://img.shields.io/badge/Built%20with%20Solana%20Agent%20Kit-%23FF6B35?style=for-the-badge&logo=solana&logoColor=white)](https://www.solanaagentkit.xyz/)
 
